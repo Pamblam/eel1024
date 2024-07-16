@@ -1,6 +1,6 @@
 # Eel 1024
 
-My entry for [https://js1024.fun/](js1024), an annual code golf contest.
+My entry for [js1024](https://js1024.fun/), an annual code golf contest.
 
 Weighing in at 969 bytes with comments and whitespace removed, my entry is a simple classic Snake game, which I hastily rebranded from "Snek" to "Eel" after realizing at the last minute that there is actually a theme I was supposed to follow, which is "liquid." Eel live in liquid. Take it or leave it. Use the arrow keys to move the ~~snake~~ eel. Eat the cherries without running into the wall or crossing over the snake itself.
 
