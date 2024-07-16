@@ -1,3 +1,5 @@
+![](eel.png)
+
 # Eel 1024
 
 My entry for [js1024](https://js1024.fun/), an annual code golf contest.
